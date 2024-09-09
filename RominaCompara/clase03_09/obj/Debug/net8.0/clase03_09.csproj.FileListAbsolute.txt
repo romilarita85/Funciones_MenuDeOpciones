@@ -1,0 +1,14 @@
+C:\Users\PC\OneDrive\Escritorio\MisProyectos\Clase_03_09_24\RominaCompara\clase03_09\bin\Debug\net8.0\clase03_09.exe
+C:\Users\PC\OneDrive\Escritorio\MisProyectos\Clase_03_09_24\RominaCompara\clase03_09\bin\Debug\net8.0\clase03_09.deps.json
+C:\Users\PC\OneDrive\Escritorio\MisProyectos\Clase_03_09_24\RominaCompara\clase03_09\bin\Debug\net8.0\clase03_09.runtimeconfig.json
+C:\Users\PC\OneDrive\Escritorio\MisProyectos\Clase_03_09_24\RominaCompara\clase03_09\bin\Debug\net8.0\clase03_09.dll
+C:\Users\PC\OneDrive\Escritorio\MisProyectos\Clase_03_09_24\RominaCompara\clase03_09\bin\Debug\net8.0\clase03_09.pdb
+C:\Users\PC\OneDrive\Escritorio\MisProyectos\Clase_03_09_24\RominaCompara\clase03_09\obj\Debug\net8.0\clase03_09.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\OneDrive\Escritorio\MisProyectos\Clase_03_09_24\RominaCompara\clase03_09\obj\Debug\net8.0\clase03_09.AssemblyInfoInputs.cache
+C:\Users\PC\OneDrive\Escritorio\MisProyectos\Clase_03_09_24\RominaCompara\clase03_09\obj\Debug\net8.0\clase03_09.AssemblyInfo.cs
+C:\Users\PC\OneDrive\Escritorio\MisProyectos\Clase_03_09_24\RominaCompara\clase03_09\obj\Debug\net8.0\clase03_09.csproj.CoreCompileInputs.cache
+C:\Users\PC\OneDrive\Escritorio\MisProyectos\Clase_03_09_24\RominaCompara\clase03_09\obj\Debug\net8.0\clase03_09.dll
+C:\Users\PC\OneDrive\Escritorio\MisProyectos\Clase_03_09_24\RominaCompara\clase03_09\obj\Debug\net8.0\refint\clase03_09.dll
+C:\Users\PC\OneDrive\Escritorio\MisProyectos\Clase_03_09_24\RominaCompara\clase03_09\obj\Debug\net8.0\clase03_09.pdb
+C:\Users\PC\OneDrive\Escritorio\MisProyectos\Clase_03_09_24\RominaCompara\clase03_09\obj\Debug\net8.0\clase03_09.genruntimeconfig.cache
+C:\Users\PC\OneDrive\Escritorio\MisProyectos\Clase_03_09_24\RominaCompara\clase03_09\obj\Debug\net8.0\ref\clase03_09.dll

@@ -1,0 +1,14 @@
+C:\Users\PC\OneDrive\Escritorio\MisProyectos\Clase_03_09_24\RominaCompara\Calculadora_MenuDeOpciones\bin\Debug\net8.0\Calculadora_MenuDeOpciones.exe
+C:\Users\PC\OneDrive\Escritorio\MisProyectos\Clase_03_09_24\RominaCompara\Calculadora_MenuDeOpciones\bin\Debug\net8.0\Calculadora_MenuDeOpciones.deps.json
+C:\Users\PC\OneDrive\Escritorio\MisProyectos\Clase_03_09_24\RominaCompara\Calculadora_MenuDeOpciones\bin\Debug\net8.0\Calculadora_MenuDeOpciones.runtimeconfig.json
+C:\Users\PC\OneDrive\Escritorio\MisProyectos\Clase_03_09_24\RominaCompara\Calculadora_MenuDeOpciones\bin\Debug\net8.0\Calculadora_MenuDeOpciones.dll
+C:\Users\PC\OneDrive\Escritorio\MisProyectos\Clase_03_09_24\RominaCompara\Calculadora_MenuDeOpciones\bin\Debug\net8.0\Calculadora_MenuDeOpciones.pdb
+C:\Users\PC\OneDrive\Escritorio\MisProyectos\Clase_03_09_24\RominaCompara\Calculadora_MenuDeOpciones\obj\Debug\net8.0\Calculadora_MenuDeOpciones.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\OneDrive\Escritorio\MisProyectos\Clase_03_09_24\RominaCompara\Calculadora_MenuDeOpciones\obj\Debug\net8.0\Calculadora_MenuDeOpciones.AssemblyInfoInputs.cache
+C:\Users\PC\OneDrive\Escritorio\MisProyectos\Clase_03_09_24\RominaCompara\Calculadora_MenuDeOpciones\obj\Debug\net8.0\Calculadora_MenuDeOpciones.AssemblyInfo.cs
+C:\Users\PC\OneDrive\Escritorio\MisProyectos\Clase_03_09_24\RominaCompara\Calculadora_MenuDeOpciones\obj\Debug\net8.0\Calculadora_MenuDeOpciones.csproj.CoreCompileInputs.cache
+C:\Users\PC\OneDrive\Escritorio\MisProyectos\Clase_03_09_24\RominaCompara\Calculadora_MenuDeOpciones\obj\Debug\net8.0\Calculadora_MenuDeOpciones.dll
+C:\Users\PC\OneDrive\Escritorio\MisProyectos\Clase_03_09_24\RominaCompara\Calculadora_MenuDeOpciones\obj\Debug\net8.0\refint\Calculadora_MenuDeOpciones.dll
+C:\Users\PC\OneDrive\Escritorio\MisProyectos\Clase_03_09_24\RominaCompara\Calculadora_MenuDeOpciones\obj\Debug\net8.0\Calculadora_MenuDeOpciones.pdb
+C:\Users\PC\OneDrive\Escritorio\MisProyectos\Clase_03_09_24\RominaCompara\Calculadora_MenuDeOpciones\obj\Debug\net8.0\Calculadora_MenuDeOpciones.genruntimeconfig.cache
+C:\Users\PC\OneDrive\Escritorio\MisProyectos\Clase_03_09_24\RominaCompara\Calculadora_MenuDeOpciones\obj\Debug\net8.0\ref\Calculadora_MenuDeOpciones.dll

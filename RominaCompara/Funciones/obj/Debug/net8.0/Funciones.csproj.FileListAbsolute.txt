@@ -1,0 +1,28 @@
+C:\Users\Alumno\Desktop\mis proyectos\RominaCompara\Funciones\bin\Debug\net8.0\Funciones.exe
+C:\Users\Alumno\Desktop\mis proyectos\RominaCompara\Funciones\bin\Debug\net8.0\Funciones.deps.json
+C:\Users\Alumno\Desktop\mis proyectos\RominaCompara\Funciones\bin\Debug\net8.0\Funciones.runtimeconfig.json
+C:\Users\Alumno\Desktop\mis proyectos\RominaCompara\Funciones\bin\Debug\net8.0\Funciones.dll
+C:\Users\Alumno\Desktop\mis proyectos\RominaCompara\Funciones\bin\Debug\net8.0\Funciones.pdb
+C:\Users\Alumno\Desktop\mis proyectos\RominaCompara\Funciones\obj\Debug\net8.0\Funciones.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alumno\Desktop\mis proyectos\RominaCompara\Funciones\obj\Debug\net8.0\Funciones.AssemblyInfoInputs.cache
+C:\Users\Alumno\Desktop\mis proyectos\RominaCompara\Funciones\obj\Debug\net8.0\Funciones.AssemblyInfo.cs
+C:\Users\Alumno\Desktop\mis proyectos\RominaCompara\Funciones\obj\Debug\net8.0\Funciones.csproj.CoreCompileInputs.cache
+C:\Users\Alumno\Desktop\mis proyectos\RominaCompara\Funciones\obj\Debug\net8.0\Funciones.dll
+C:\Users\Alumno\Desktop\mis proyectos\RominaCompara\Funciones\obj\Debug\net8.0\refint\Funciones.dll
+C:\Users\Alumno\Desktop\mis proyectos\RominaCompara\Funciones\obj\Debug\net8.0\Funciones.pdb
+C:\Users\Alumno\Desktop\mis proyectos\RominaCompara\Funciones\obj\Debug\net8.0\Funciones.genruntimeconfig.cache
+C:\Users\Alumno\Desktop\mis proyectos\RominaCompara\Funciones\obj\Debug\net8.0\ref\Funciones.dll
+C:\Users\PC\OneDrive\Escritorio\MisProyectos\Clase_03_09_24\RominaCompara\Funciones\bin\Debug\net8.0\Funciones.exe
+C:\Users\PC\OneDrive\Escritorio\MisProyectos\Clase_03_09_24\RominaCompara\Funciones\bin\Debug\net8.0\Funciones.deps.json
+C:\Users\PC\OneDrive\Escritorio\MisProyectos\Clase_03_09_24\RominaCompara\Funciones\bin\Debug\net8.0\Funciones.runtimeconfig.json
+C:\Users\PC\OneDrive\Escritorio\MisProyectos\Clase_03_09_24\RominaCompara\Funciones\bin\Debug\net8.0\Funciones.dll
+C:\Users\PC\OneDrive\Escritorio\MisProyectos\Clase_03_09_24\RominaCompara\Funciones\bin\Debug\net8.0\Funciones.pdb
+C:\Users\PC\OneDrive\Escritorio\MisProyectos\Clase_03_09_24\RominaCompara\Funciones\obj\Debug\net8.0\Funciones.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\OneDrive\Escritorio\MisProyectos\Clase_03_09_24\RominaCompara\Funciones\obj\Debug\net8.0\Funciones.AssemblyInfoInputs.cache
+C:\Users\PC\OneDrive\Escritorio\MisProyectos\Clase_03_09_24\RominaCompara\Funciones\obj\Debug\net8.0\Funciones.AssemblyInfo.cs
+C:\Users\PC\OneDrive\Escritorio\MisProyectos\Clase_03_09_24\RominaCompara\Funciones\obj\Debug\net8.0\Funciones.csproj.CoreCompileInputs.cache
+C:\Users\PC\OneDrive\Escritorio\MisProyectos\Clase_03_09_24\RominaCompara\Funciones\obj\Debug\net8.0\Funciones.dll
+C:\Users\PC\OneDrive\Escritorio\MisProyectos\Clase_03_09_24\RominaCompara\Funciones\obj\Debug\net8.0\refint\Funciones.dll
+C:\Users\PC\OneDrive\Escritorio\MisProyectos\Clase_03_09_24\RominaCompara\Funciones\obj\Debug\net8.0\Funciones.pdb
+C:\Users\PC\OneDrive\Escritorio\MisProyectos\Clase_03_09_24\RominaCompara\Funciones\obj\Debug\net8.0\Funciones.genruntimeconfig.cache
+C:\Users\PC\OneDrive\Escritorio\MisProyectos\Clase_03_09_24\RominaCompara\Funciones\obj\Debug\net8.0\ref\Funciones.dll
