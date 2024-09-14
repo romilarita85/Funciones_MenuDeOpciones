@@ -23,7 +23,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "clase05_09", "clase05_09\cl
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Menu_De_Usuario", "Menu_De_Usuario\Menu_De_Usuario.csproj", "{DBFD8711-73C6-4BE2-B2AA-E9B0524A9E1E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Calculadora_MenuDeOpciones", "Calculadora_MenuDeOpciones\Calculadora_MenuDeOpciones.csproj", "{BD0A40BB-A630-472C-9D4E-EF10503D27F0}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Calculadora_MenuDeOpciones", "Calculadora_MenuDeOpciones\Calculadora_MenuDeOpciones.csproj", "{BD0A40BB-A630-472C-9D4E-EF10503D27F0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "clase12_09", "clase12_09\clase12_09.csproj", "{00823C28-BCF8-40C9-9BEB-DC491E4BFF93}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -75,6 +77,10 @@ Global
 		{BD0A40BB-A630-472C-9D4E-EF10503D27F0}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BD0A40BB-A630-472C-9D4E-EF10503D27F0}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BD0A40BB-A630-472C-9D4E-EF10503D27F0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{00823C28-BCF8-40C9-9BEB-DC491E4BFF93}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{00823C28-BCF8-40C9-9BEB-DC491E4BFF93}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{00823C28-BCF8-40C9-9BEB-DC491E4BFF93}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{00823C28-BCF8-40C9-9BEB-DC491E4BFF93}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

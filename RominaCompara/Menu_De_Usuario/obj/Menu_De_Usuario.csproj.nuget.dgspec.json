@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\PC\\OneDrive\\Escritorio\\MisProyectos\\Clase_03_09_24\\RominaCompara\\Menu_De_Usuario\\Menu_De_Usuario.csproj": {}
+    "C:\\Users\\PC\\OneDrive\\Escritorio\\MisProyectos\\ClaseGermanPoo_24\\Funciones_MenuDeOpciones\\RominaCompara\\Menu_De_Usuario\\Menu_De_Usuario.csproj": {}
   },
   "projects": {
-    "C:\\Users\\PC\\OneDrive\\Escritorio\\MisProyectos\\Clase_03_09_24\\RominaCompara\\Menu_De_Usuario\\Menu_De_Usuario.csproj": {
+    "C:\\Users\\PC\\OneDrive\\Escritorio\\MisProyectos\\ClaseGermanPoo_24\\Funciones_MenuDeOpciones\\RominaCompara\\Menu_De_Usuario\\Menu_De_Usuario.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\PC\\OneDrive\\Escritorio\\MisProyectos\\Clase_03_09_24\\RominaCompara\\Menu_De_Usuario\\Menu_De_Usuario.csproj",
+        "projectUniqueName": "C:\\Users\\PC\\OneDrive\\Escritorio\\MisProyectos\\ClaseGermanPoo_24\\Funciones_MenuDeOpciones\\RominaCompara\\Menu_De_Usuario\\Menu_De_Usuario.csproj",
         "projectName": "Menu_De_Usuario",
-        "projectPath": "C:\\Users\\PC\\OneDrive\\Escritorio\\MisProyectos\\Clase_03_09_24\\RominaCompara\\Menu_De_Usuario\\Menu_De_Usuario.csproj",
+        "projectPath": "C:\\Users\\PC\\OneDrive\\Escritorio\\MisProyectos\\ClaseGermanPoo_24\\Funciones_MenuDeOpciones\\RominaCompara\\Menu_De_Usuario\\Menu_De_Usuario.csproj",
         "packagesPath": "C:\\Users\\PC\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\PC\\OneDrive\\Escritorio\\MisProyectos\\Clase_03_09_24\\RominaCompara\\Menu_De_Usuario\\obj\\",
+        "outputPath": "C:\\Users\\PC\\OneDrive\\Escritorio\\MisProyectos\\ClaseGermanPoo_24\\Funciones_MenuDeOpciones\\RominaCompara\\Menu_De_Usuario\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\PC\\AppData\\Roaming\\NuGet\\NuGet.Config",
