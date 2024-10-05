@@ -6,7 +6,8 @@
         //Depuracion y modificacion
         //Reutilizacion
         //Independencia
-
+        
+        //Funcion que no tiene retorno y que no recibe parametros
         static void Sumar1() //declaracion e implementacion de la funcion
         {
             int unNumero;
@@ -27,6 +28,8 @@
             Console.WriteLine($"El resultado de la suma es:{suma}");
 
         }
+
+        //Funcion que tiene retorno y recibe parametros
         static void Sumar2(int unNumero, int otroNumero) //declaracion e implementacion de la funcion
         {
             int suma;
@@ -38,9 +41,9 @@
             //Depuracion y modificacion = +-(acotada al modulo)
             //Reutilizacion = +-
             //Independencia = +-
-        }
-
-        static int Sumar3() // va a tener un retorno 
+        } 
+        //Funcion que tiene retorno pero no recibe parametros
+        static int Sumar3() // va a tener un retorno pero no recibe parametros
         {
             int unNumero;
             int otroNumero;
@@ -105,6 +108,7 @@
             //-------------------------------------------------------------------------
            
         }
+        //Funcion que tiene retorno y recibe parametros
         static int Sumar4(int unNumero, int otroNumero) 
         { 
             int resultado;
@@ -123,11 +127,11 @@
         }
         //Crear una funcion que reciba como parametro la base y la altura de un rectangulo.
         //La funcion tendra que calcular y devolver el area de la figura.
-        static int CalcularAreaRectangulo(int b, int a) 
+        static int CalcularAreaRectangulo(int baseR, int alturaR) 
         {
             int area;
             
-            area = b * a;
+            area = baseR * alturaR;
             
             return area;
         }

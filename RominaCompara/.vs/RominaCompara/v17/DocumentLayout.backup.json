@@ -3,16 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\PC\\OneDrive\\Escritorio\\MisProyectos\\ClaseGermanPoo_24\\Funciones_MenuDeOpciones\\RominaCompara\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{20649B0A-4633-4961-9715-717E7ED58FF6}|clase17_09\\clase17_09.csproj|c:\\users\\pc\\onedrive\\escritorio\\misproyectos\\clasegermanpoo_24\\funciones_menudeopciones\\rominacompara\\clase17_09\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{20649B0A-4633-4961-9715-717E7ED58FF6}|clase17_09\\clase17_09.csproj|solutionrelative:clase17_09\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{DBFD8711-73C6-4BE2-B2AA-E9B0524A9E1E}|Menu_De_Usuario\\Menu_De_Usuario.csproj|c:\\users\\pc\\onedrive\\escritorio\\misproyectos\\clasegermanpoo_24\\funciones_menudeopciones\\rominacompara\\menu_de_usuario\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DBFD8711-73C6-4BE2-B2AA-E9B0524A9E1E}|Menu_De_Usuario\\Menu_De_Usuario.csproj|solutionrelative:menu_de_usuario\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{00823C28-BCF8-40C9-9BEB-DC491E4BFF93}|clase12_09\\clase12_09.csproj|c:\\users\\pc\\onedrive\\escritorio\\misproyectos\\clasegermanpoo_24\\funciones_menudeopciones\\rominacompara\\clase12_09\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{00823C28-BCF8-40C9-9BEB-DC491E4BFF93}|clase12_09\\clase12_09.csproj|solutionrelative:clase12_09\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{00823C28-BCF8-40C9-9BEB-DC491E4BFF93}|clase12_09\\clase12_09.csproj|c:\\users\\pc\\onedrive\\escritorio\\misproyectos\\clasegermanpoo_24\\funciones_menudeopciones\\rominacompara\\clase12_09\\clase12_09.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{00823C28-BCF8-40C9-9BEB-DC491E4BFF93}|clase12_09\\clase12_09.csproj|solutionrelative:clase12_09\\clase12_09.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{EAE917FA-83CB-4CEF-AFF3-811609E765D5}|Funciones\\Funciones.csproj|c:\\users\\pc\\onedrive\\escritorio\\misproyectos\\clasegermanpoo_24\\funciones_menudeopciones\\rominacompara\\funciones\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EAE917FA-83CB-4CEF-AFF3-811609E765D5}|Funciones\\Funciones.csproj|solutionrelative:funciones\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20649B0A-4633-4961-9715-717E7ED58FF6}|clase17_09\\clase17_09.csproj|c:\\users\\pc\\onedrive\\escritorio\\misproyectos\\clasegermanpoo_24\\funciones_menudeopciones\\rominacompara\\clase17_09\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20649B0A-4633-4961-9715-717E7ED58FF6}|clase17_09\\clase17_09.csproj|solutionrelative:clase17_09\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -36,26 +40,40 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\PC\\OneDrive\\Escritorio\\MisProyectos\\ClaseGermanPoo_24\\Funciones_MenuDeOpciones\\RominaCompara\\clase17_09\\Program.cs",
-              "RelativeDocumentMoniker": "clase17_09\\Program.cs",
-              "ToolTip": "C:\\Users\\PC\\OneDrive\\Escritorio\\MisProyectos\\ClaseGermanPoo_24\\Funciones_MenuDeOpciones\\RominaCompara\\clase17_09\\Program.cs",
-              "RelativeToolTip": "clase17_09\\Program.cs",
-              "ViewState": "AgIAAEUAAAAAAAAAAAAYwDYAAABUAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\PC\\OneDrive\\Escritorio\\MisProyectos\\ClaseGermanPoo_24\\Funciones_MenuDeOpciones\\RominaCompara\\Menu_De_Usuario\\Program.cs",
+              "RelativeDocumentMoniker": "Menu_De_Usuario\\Program.cs",
+              "ToolTip": "C:\\Users\\PC\\OneDrive\\Escritorio\\MisProyectos\\ClaseGermanPoo_24\\Funciones_MenuDeOpciones\\RominaCompara\\Menu_De_Usuario\\Program.cs",
+              "RelativeToolTip": "Menu_De_Usuario\\Program.cs",
+              "ViewState": "AgIAAIkAAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-19T18:07:36.048Z",
+              "WhenOpened": "2024-10-05T23:21:36.889Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "clase12_09.csproj",
-              "DocumentMoniker": "C:\\Users\\PC\\OneDrive\\Escritorio\\MisProyectos\\ClaseGermanPoo_24\\Funciones_MenuDeOpciones\\RominaCompara\\clase12_09\\clase12_09.csproj",
-              "RelativeDocumentMoniker": "clase12_09\\clase12_09.csproj",
-              "ToolTip": "C:\\Users\\PC\\OneDrive\\Escritorio\\MisProyectos\\ClaseGermanPoo_24\\Funciones_MenuDeOpciones\\RominaCompara\\clase12_09\\clase12_09.csproj",
-              "RelativeToolTip": "clase12_09\\clase12_09.csproj",
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\OneDrive\\Escritorio\\MisProyectos\\ClaseGermanPoo_24\\Funciones_MenuDeOpciones\\RominaCompara\\Funciones\\Program.cs",
+              "RelativeDocumentMoniker": "Funciones\\Program.cs",
+              "ToolTip": "C:\\Users\\PC\\OneDrive\\Escritorio\\MisProyectos\\ClaseGermanPoo_24\\Funciones_MenuDeOpciones\\RominaCompara\\Funciones\\Program.cs",
+              "RelativeToolTip": "Funciones\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-09-13T23:55:49.208Z"
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-05T23:21:34.009Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\OneDrive\\Escritorio\\MisProyectos\\ClaseGermanPoo_24\\Funciones_MenuDeOpciones\\RominaCompara\\clase17_09\\Program.cs",
+              "RelativeDocumentMoniker": "clase17_09\\Program.cs",
+              "ToolTip": "C:\\Users\\PC\\OneDrive\\Escritorio\\MisProyectos\\ClaseGermanPoo_24\\Funciones_MenuDeOpciones\\RominaCompara\\clase17_09\\Program.cs",
+              "RelativeToolTip": "clase17_09\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAANMAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-05T23:21:30.282Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -65,9 +83,9 @@
               "RelativeDocumentMoniker": "clase12_09\\Program.cs",
               "ToolTip": "C:\\Users\\PC\\OneDrive\\Escritorio\\MisProyectos\\ClaseGermanPoo_24\\Funciones_MenuDeOpciones\\RominaCompara\\clase12_09\\Program.cs",
               "RelativeToolTip": "clase12_09\\Program.cs",
-              "ViewState": "AgIAAKYAAAAAAAAAAADwvw4AAABUAAAAAAAAAA==",
+              "ViewState": "AgIAAOoAAAAAAAAAAAAAAMEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-13T23:14:14.064Z",
+              "WhenOpened": "2024-10-05T23:21:27.65Z",
               "EditorCaption": ""
             }
           ]
